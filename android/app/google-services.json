@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "507182337644",
+    "project_id": "contactme-150ac",
+    "storage_bucket": "contactme-150ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507182337644:android:a31ef9d8dddcef87081249",
+        "android_client_info": {
+          "package_name": "com.crycetruly.contactme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507182337644-5ovut9muol1a21saoh51241a6vd63je3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClm8n90RQK92RLELga9wIykhewZ-TmNAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507182337644-5ovut9muol1a21saoh51241a6vd63je3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "507182337644-tqscql6cffn5asin3nv5mkvam3n8frmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.crycetruly.contactme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
